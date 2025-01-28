@@ -1,1 +1,3 @@
-# ex-k2
+enkle lijnen 
+toevoegen 
+aan readme 
